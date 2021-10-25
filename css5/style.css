@@ -1,0 +1,26 @@
+.div1,
+.div2,
+.div3{
+  font-family: "Segoe UI";
+  width: 300px;
+  height: 120px;
+  padding: 20px;
+}
+body,
+.div1,
+.div3 {
+  background-image: url(imag/402868.jpg);
+  background-size: cover;
+}
+/*   divs rules   */
+.div1 {
+  background-image: url(imag/earth-1756274.jpg);
+  background-size: cover;
+  color: blanchedalmond;
+}
+.div2 {
+  color: rgb(255, 255, 255);
+}
+.div3 {
+  color: rgb(255, 255, 255);
+}
