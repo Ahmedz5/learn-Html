@@ -1,0 +1,29 @@
+.p1,
+.p2,
+.p3{
+   font-family: inherit;
+   
+   height: 150px; ;
+   width: 300px;
+   padding: 30px;
+   display: inline-block;
+}
+
+.p1{
+    border: 5px solid royalblue;
+    color: black;
+}
+.p2{
+    border-right: 5px dotted red;
+    border-left: 5px dashed red;
+    background-color: blueviolet;
+    color: #fff;
+}
+
+
+.p3{
+    border-top:5px dotted red;
+    border-bottom: 5px solid red;
+    background-color: rgb(191, 170, 211);
+    color: blanchedalmond;
+}
